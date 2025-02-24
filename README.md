@@ -1,6 +1,6 @@
 # Accredian Frontend Setup
 
-## **Check Here** [Implementaion video](https://drive.google.com/file/d/1p7gUYv2x6NJoL6DCpx8p43XhhbuzB9JQ/view?usp=sharing)
+## **Check Here** ➡️[Implementaion video](https://drive.google.com/file/d/1p7gUYv2x6NJoL6DCpx8p43XhhbuzB9JQ/view?usp=sharing)
 
 This guide will help you set up and run the frontend for the Accredian "Refer & Earn" landing page.
 
